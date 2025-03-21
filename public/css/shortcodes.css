@@ -899,7 +899,7 @@ h2.title strong{
     top: 40px;
     left: 20px;
     z-index: 2;
-    width: 70px;
+    width: 105px;
     height: 70px;
     border-radius: 3px;
 }
@@ -1001,7 +1001,7 @@ h2.title strong{
     padding-left: 0;
     margin-left: -25px;
 }
-.ttm-box-post-date .ttm-entry-date .entry-date{font-size: 30px;font-weight: 600;}
+.ttm-box-post-date .ttm-entry-date .entry-date{font-size: 20px;font-weight: 600;}
 .ttm-box-post-date .ttm-entry-date .entry-month {width: 100%;}
 .ttm-box-post-date .ttm-entry-date .entry-month,
 .ttm-box-post-date .ttm-entry-date .entry-year{font-size: 14px;font-weight: 400;display:block;text-transform: uppercase;}
